@@ -1,0 +1,2 @@
+[remote "origin"]
+	url = https://ext.jacob.qiao@stash.englishtown.com/scm/itis/omni-foundation-ui.git
